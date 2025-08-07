@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.jfif
+*.log
+*.db
+.env
+.env.*
+venv/
